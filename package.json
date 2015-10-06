@@ -1,6 +1,6 @@
 {
   "name": "react-ui",
-  "author": "lobos841@gmail.com",
+  "author": "zanjser@163.com",
   "version": "0.4.2",
   "description": "a collection of components for React",
   "main": "./src/index.js",
@@ -16,11 +16,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Lobos/react-ui.git"
+    "url": "https://github.com/zanjs/react-ui.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lobos/react-ui/issues"
+    "url": "https://github.com/zanjs/react-ui/issues"
   },
   "browserify": {
     "transform": [
