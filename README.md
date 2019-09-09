@@ -3,6 +3,8 @@ A collection of components for React.
 
 # 使用
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/react-ui.svg)](https://greenkeeper.io/)
+
  - 直接引用
 
 [在线生成需要的组件](http://zanjs.github.io/react-ui/#/build)，在页面中引用即可。（注意需要先引用 react 和 [es5-shim](https://github.com/es-shims/es5-shim)）
